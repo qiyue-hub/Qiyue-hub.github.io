@@ -64,12 +64,12 @@ Daochang Liu, **Qiyue Li**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Z
 
 - Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, Daochang Liu, **Qiyue Li**, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
 
-<span class='anchor' id='teaching'></span>
+<span class='anchor' id='awards'></span>
 
 # 🏆 Awards
 - *2022*, Peking University Principle's Scholarship
 
-<span class='anchor' id='talks'></span>
+<span class='anchor' id='teaching and services'></span>
 
 # 📖 Teaching and Services
 
