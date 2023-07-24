@@ -9,17 +9,8 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Teaching"
-    url: "/#teaching"
-
   - title: "Awards"
     url: "/#awards"
-
-  - title: "Talks"
-    url: "/#talks"
-
-  - title: "Grants"
-    url: "/#grants"
 
   - title: "Services"
     url: "/#services"
