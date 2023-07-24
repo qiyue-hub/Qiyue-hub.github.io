@@ -69,7 +69,7 @@ Daochang Liu, **Qiyue Li**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Z
 # 🏆 Awards
 - *2022*, Peking University Principle's Scholarship
 
-<span class='anchor' id='teaching-and-services'></span>
+<span class='anchor' id='teaching'></span>
 
 # 📖 Teaching and Services
 
