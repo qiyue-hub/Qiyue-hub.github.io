@@ -73,9 +73,9 @@ Daochang Liu, **Qiyue Li**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Z
 
 # 📖 Teaching and Services
 
-- Reviewer of TMI, MVAP, Sens Imaging
 - *2022*, Tutor for Computer Vision Algorithms and Techniques, Peking University
 - *2022*, Tutor for Statistical Learning, Peking University
+- Reviewer of TMI, MVAP, Sens Imaging
 
 
 # -
