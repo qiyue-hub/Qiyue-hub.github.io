@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a PhD student from Peking University supervised by [Tingting Jiang](http://www.vie.group/ttj) and [Ming Jiang](https://www.math.pku.edu.cn/teachers/jiangm/), and a Bachelor of Science from Peking University. 
-My research interests lie in artificial intelligence, video action analysis and related topics in the medical domain.
+My research interests lie in video action analysis and related topics in the medical domain.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
@@ -26,7 +26,7 @@ My research interests lie in artificial intelligence, video action analysis and 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ICCV 2023. 
+- No News
 
 <span class='anchor' id='publications'></span>
 
